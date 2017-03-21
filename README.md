@@ -280,5 +280,3 @@ Now let's delete that `req.options.timeout = 0` line, because we would never wan
 We've seen how to use Faraday to consume the Foursquare API from within our Rails app, how to use the documentation to parse the response, and how to handle for common errors. Time to celebrate!
 
 ![winston happy](http://i.giphy.com/l2JIdnF6aJnAqzDgY.gif)
-
-<p class='util--hide'>View <a href='https://learn.co/lessons/apis-and-faraday-reading'>Hitting APIs with Faraday</a> on Learn.co and start learning to code for free.</p>
