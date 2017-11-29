@@ -12,7 +12,7 @@ Let's use the [search](https://developer.foursquare.com/docs/venues/search) venu
 
 We want to pass parameters of `near` and `query`, along with our `client_secret`, `client_id`, and `v` parameters.
 
-If we did it right, we should get a JSON response with an array of `venues`, each of which should conform to the [venue](https://developer.foursquare.com/docs/responses/venue) documentation.
+If we did it right, we should get a JSaON response with an array of `venues`, each of which should conform to the [venue](https://developer.foursquare.com/docs/responses/venue) documentation.
 
 Great! Now that we know how to query the API and get the results we want with Postman, how do we actually do this in code?
 
